@@ -1,5 +1,8 @@
 # file-system-management dashboard
 
+### DEMO
+![demo](https://github.com/ealili/file-managenemt-system-frontend/assets/37370292/1ec8b20c-a81f-4fc4-a4d6-89d70c5c2712)
+
 
 ### Before setting up the project the following are required: 
 1. For Windows: 
